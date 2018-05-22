@@ -1,3 +1,9 @@
+#------------image preparation
+
+data = cv2.imread('2_5_1.jpg', cv2.CV_LOAD_IMAGE_GRAYSCALE)
+thresh = 127
+im_bw = cv2.threshold(data, thresh, 1, cv2.THRESH_BINARY)
+
 #------------sceletonize with OpenCV---------------------
 
 import cv2
