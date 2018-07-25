@@ -47,7 +47,7 @@ pyQT5: [ссылка на официальный сайт.](https://riverbankcom
 
 **Пример работы программы:**
 
-![alt text](better.jpg)
+![alt text](1.jpg)
 ----------------------------------
 [Видео, иллюстрирующее работу с программой](https://www.youtube.com/watch?v=bjM5I21gQFw)
 
