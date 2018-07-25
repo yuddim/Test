@@ -46,6 +46,7 @@ pyQT5: [ссылка на официальный сайт.](https://riverbankcom
 Далее нужно **клонировать файлы с [репозитория](https://github.com/yuddim/multi_class_segmentation_tool)** и запустить программу в **PyCharm**. 
 
 **Пример работы программы:**
+
 ![alt text](test.jpg)
 ----------------------------------
 [Видео, иллюстрирующее работу с программой](https://www.youtube.com/watch?v=bjM5I21gQFw)
