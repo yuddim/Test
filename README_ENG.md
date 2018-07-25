@@ -43,7 +43,8 @@ pyQT5: [link to the official website.](https://riverbankcomputing.com/software/p
 
 ------------------------------------------------------------------------
 
-Next, you need to ** clone files from [repository](https://github.com/yuddim/multi_class_segmentation_tool)** and run the program in ** PyCharm **. 
+Next, you need to **clone files from [repository](https://github.com/yuddim/multi_class_segmentation_tool)** and run the program in 
+**PyCharm**. 
 
 **Example of program operation:**
 
