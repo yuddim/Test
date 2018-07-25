@@ -49,3 +49,5 @@ pyQT5: [ссылка на официальный сайт.](https://riverbankcom
 [Видео, иллюстрирующее работу с программой](https://www.youtube.com/watch?v=bjM5I21gQFw)
 
 [![Alt Видео, иллюстрирующее работу с программой](https://i9.ytimg.com/vi/bjM5I21gQFw/mq3.jpg?sqp=CNjB4toF&rs=AOn4CLAl9VX6nNk0mjbAnuoHcSOHTqQbFw)](https://www.youtube.com/watch?v=bjM5I21gQFw)
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bjM5I21gQFw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
