@@ -3,11 +3,11 @@
 Для удобства запуска примеров, советуем установить на свой ПК пакеты Anaconda и PyCharm.
 [Ссылка на статью с подробным описанием](https://devpractice.ru/python-lesson-1-install/).
 
-В проекте используются: язык python3.х, библиотеки [pyQT5](https://pythonworld.ru/gui/pyqt5-firstprograms.html), [scikit-image](http://scikit-image.org), [opencv 3](https://opencv.org/opencv-3-0.html), [NumPy](https://pypi.org/project/numpy/).
+В проекте используются: язык Python 3.х, библиотеки [pyQT5](https://pythonworld.ru/gui/pyqt5-firstprograms.html), [scikit-image](http://scikit-image.org), [opencv 3](https://opencv.org/opencv-3-0.html), [NumPy](https://pypi.org/project/numpy/).
 
 --------------------------------------
 
-**Для корректной работоспособности программы segmentation_tool.py нужно проделать следующие шаги (для Windows):**
+**Для корректной работоспособности программы _segmentation_tool.py_ нужно проделать следующие шаги (для Windows):**
 
 Создать зависимости между **Python3**, **pyQT5**, пакетом **scikit-image** и **OpenCV 3**.
 
