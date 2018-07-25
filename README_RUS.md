@@ -33,7 +33,7 @@ OpenCV:
 
 scikit-image:
 
-	pip install scikit-image **или** conda install -c conda-forge scikit-image
+	pip install scikit-image или conda install -c conda-forge scikit-image
 
 NumPy:
 
