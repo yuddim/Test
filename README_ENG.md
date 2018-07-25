@@ -9,9 +9,9 @@ The project uses: python3.х, libraries [pyQT5](https://stackoverflow.com/questi
 
 **For the correct functioning of the program segmentation_tool.py, you need to do the following steps (for Windows):**
 
-Create dependencies between ** Python3 **, ** pyQT5 **, package ** scikit-image ** and ** OpenCV 3 **.
+Create dependencies between **Python3**, **pyQT5**, package **scikit-image** and **OpenCV 3**.
 
-**1.1** Press the key combination ** Win + R **, enter the command _cmd_ in the appeared window (call the command line)
+**1.1** Press the key combination **Win + R**, enter the command _cmd_ in the appeared window (call the command line)
 
 **1.2** Create a python 35 environment with the command:  
 
