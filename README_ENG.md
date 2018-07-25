@@ -3,13 +3,13 @@
 For the convenience of starting the examples, we recommend you to install Anaconda and PyCharm packages on your PC.
 [Link to the article with a detailed description](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444).
 
-The project uses: python3.х, libraries [pyQT5](https://stackoverflow.com/questions/16846501/how-to-install-pyqt5-on-windows), [scikit-image](http://scikit-image.org), [opencv 3](https://opencv.org/opencv-3-0.html), [NumPy](https://pypi.org/project/numpy/).
+The project uses: Python 3.х, libraries [pyQT5](https://stackoverflow.com/questions/16846501/how-to-install-pyqt5-on-windows), [scikit-image](http://scikit-image.org), [opencv 3](https://opencv.org/opencv-3-0.html), [NumPy](https://pypi.org/project/numpy/).
 
 --------------------------------------
 
-**For the correct functioning of the program segmentation_tool.py, you need to do the following steps (for Windows):**
+**For the correct functioning of the program _segmentation_tool.py_, you need to do the following steps (for Windows):**
 
-Create dependencies between **Python3**, **pyQT5**, package **scikit-image** and **OpenCV 3**.
+Create dependencies between **Python 3**, **pyQT5**, package **scikit-image** and **OpenCV 3**.
 
 **1.1** Press the key combination **Win + R**, enter the command _cmd_ in the appeared window (call the command line)
 
@@ -17,7 +17,7 @@ Create dependencies between **Python3**, **pyQT5**, package **scikit-image** and
 
 	conda create –n python35 python=3.5 anaconda
     
-**1.3** Activate the python environment 35 with the command:
+**1.3** Activate the python 35 environment with the command:
 
 	activate python 35
 
